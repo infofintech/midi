@@ -1,2 +1,2 @@
-# midi
-Popular music samples in MIDI format.
+# MIDI & Tunes
+A free web collection of MIDI and instrumental audio files.
