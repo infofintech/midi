@@ -1,1 +1,12 @@
-author|[>]|infofintech|[1]|host|[>]|https://github.com|[1]|version|[>]|3.2.0|[1]|branch|[>]|main|[1]|born|[>]|2019|[1]|description|[>]|A free web collection of MIDI and instrumental audio files.|[1]|title|[>]|MIDI & Tunes|[1]|type|[>]|Digital Audio Library|[1]|files|[>]|Karaoke - Bon Appétit.ogg;Karaoke - Remember The Time.aac;Karaoke - Right There.aac;Karaoke - Rock With You.aac;Karaoke - Say So.aac;Karaoke - Seal Me With A Kiss.aac;Karaoke - Trust Nobody.ogg;billiejean.mid;californiadreaming.mid;closeencounters.mid;downunder.mid;imyourbabytonight.mid;iwannabelovedbyyou.mid;letsgroove.mid;mabaker.mid;makeitshine.mid;moonriver.mid;ridelikethewind.mid;smoothcriminal.mid;terminator.mid;thegirlfromipanema.mid;tomandjerry.mid;youreoneinamillion.mid;
+{
+    "author": "infofintech",
+    "host": "https://github.com",
+    "version": "3.2.0",
+    "branch": "main",
+    "initial_release": "2019-06-18",
+    "initial_version": "1.0",
+    "description": "A free web collection of MIDI and instrumental audio files.",
+    "title": "MIDI & Tunes",
+    "type": "Digital Audio Library",
+    "files": "Karaoke - Bon Appétit.ogg;Karaoke - Remember The Time.aac;Karaoke - Right There.aac;Karaoke - Rock With You.aac;Karaoke - Say So.aac;Karaoke - Seal Me With A Kiss.aac;Karaoke - Trust Nobody.ogg;billiejean.mid;californiadreaming.mid;closeencounters.mid;downunder.mid;imyourbabytonight.mid;iwannabelovedbyyou.mid;letsgroove.mid;mabaker.mid;makeitshine.mid;moonriver.mid;ridelikethewind.mid;smoothcriminal.mid;terminator.mid;thegirlfromipanema.mid;tomandjerry.mid;youreoneinamillion.mid"
+}
